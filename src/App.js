@@ -25,6 +25,7 @@ function App() {
           <input type="text" className="App-input" placeholder="pass" />
           <br />
           <button>Login</button>
+          <button>Admin</button>
         </div>
       </header>
     </div>
