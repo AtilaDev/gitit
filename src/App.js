@@ -17,6 +17,15 @@ function App() {
           rel="noopener noreferrer">
           Learn React
         </a>
+
+        <div className="App-input-container">
+          <input type="text" className="App-input" placeholder="user" />
+          <br />
+          <br />
+          <input type="text" className="App-input" placeholder="pass" />
+          <br />
+          <button>Login</button>
+        </div>
       </header>
     </div>
   );
