@@ -27,6 +27,7 @@ function App() {
           <button>Login</button>
           <button>Admin</button>
           <button>Atención a clientes</button>
+          <button>Redes sociales</button>
         </div>
       </header>
     </div>
