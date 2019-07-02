@@ -26,6 +26,7 @@ function App() {
           <br />
           <button>Login</button>
           <button>Admin</button>
+          <button>Atención a clientes</button>
         </div>
       </header>
     </div>
