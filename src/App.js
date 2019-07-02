@@ -15,7 +15,7 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer">
-          Learn React with Hooks!
+          Learn React with Hooks2!
         </a>
 
         <div className="App-input-container">
