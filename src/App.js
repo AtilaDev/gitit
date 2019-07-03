@@ -17,6 +17,14 @@ function App() {
           rel="noopener noreferrer">
           Learn React with Hooks2!
         </a>
+        <br />
+        <a
+          className="App-link"
+          href="https://www.google.com"
+          target="_blank"
+          rel="noopener noreferrer">
+          Go to Google!
+        </a>
 
         <div className="App-input-container">
           <input type="text" className="App-input" placeholder="user" />
